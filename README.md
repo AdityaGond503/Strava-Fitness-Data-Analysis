@@ -112,8 +112,6 @@ Three dashboards were created to visualize insights clearly.
 
 ## Sleep Analysis Dashboard
 
-## Sleep Analysis Dashboard
-
 ![Sleep Dashboard](images/sleep.png)
 
 ---
