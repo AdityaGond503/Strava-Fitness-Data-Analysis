@@ -105,20 +105,20 @@ Three dashboards were created to visualize insights clearly.
 # 📊 Dashboard Preview
 
 ## Activity Overview Dashboard
-
-Screenshot 2026-03-14 114247.png
+![Dashboard](images/d3png)
+      
 
 ---
 
 ## Sleep Analysis Dashboard
 
-Screenshot 2026-03-14 114340.png
+
 
 ---
 
 ## Health Metrics Dashboard
 
-d3.png
+
 
 ---
 
