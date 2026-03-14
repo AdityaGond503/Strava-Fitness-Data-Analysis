@@ -106,19 +106,21 @@ Three dashboards were created to visualize insights clearly.
 
 ## Activity Overview Dashboard
 
-      
+![Activity Dashboard](images/activity.png)    
 
 ---
 
 ## Sleep Analysis Dashboard
 
+## Sleep Analysis Dashboard
 
+![Sleep Dashboard](images/sleep.png)
 
 ---
 
 ## Health Metrics Dashboard
 
-
+![Health Dashboard](images/health.png)
 
 ---
 
