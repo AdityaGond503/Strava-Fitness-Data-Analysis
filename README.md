@@ -105,7 +105,7 @@ Three dashboards were created to visualize insights clearly.
 # 📊 Dashboard Preview
 
 ## Activity Overview Dashboard
-![Dashboard](images/d3png)
+
       
 
 ---
